@@ -5,5 +5,6 @@
 
 void printGreeting(const std::string& name);
 void printFarewell(const std::string& name);
+void printFarewell();
 
 #endif
