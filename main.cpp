@@ -7,6 +7,7 @@ int main (int argc, const char* argv[])
 	std::string name;
 	std::cin >> name;
 	printGreeting(name);
+	printFarewell(name);
 	
 	return 0;
 }
