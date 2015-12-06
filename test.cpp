@@ -11,3 +11,8 @@ void printFarewell(const std::string& name)
 {
 	std::cout << "Goodbye, " << name << "!" << std::endl;
 }
+
+void printFarewell()
+{
+	std::cout << "Goodbye!" << std::endl;
+}
