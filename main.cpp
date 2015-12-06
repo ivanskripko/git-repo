@@ -1,11 +1,12 @@
 #include <iostream>
 #include <string>
+#include "test.h"
 
 int main (int argc, const char* argv[]) 
 {
 	std::string name;
 	std::cin >> name;
-	std::cout << "Hello, " << name << "!" << std::endl;
+	printGreeting(name);
 	
 	return 0;
 }
