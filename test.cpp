@@ -4,15 +4,15 @@
 
 void printGreeting(const std::string& name) 
 {
-	std::cout << "Hello, " << name << "!" << std::endl;
+	std::cout << "Hello, " << name << "." << std::endl;
 }
 
 void printFarewell(const std::string& name)
 {
-	std::cout << "Goodbye, " << name << "!" << std::endl;
+	std::cout << "Goodbye, " << name << "." << std::endl;
 }
 
 void printFarewell()
 {
-	std::cout << "Goodbye!" << std::endl;
+	std::cout << "Goodbye." << std::endl;
 }
