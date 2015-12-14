@@ -7,5 +7,6 @@ void printGreeting(const std::string& name);
 void printGreeting();
 void printFarewell(const std::string& name);
 void printFarewell();
+void askQuestion(const std::string& question);
 
 #endif

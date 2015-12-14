@@ -21,3 +21,8 @@ void printFarewell()
 {
 	std::cout << "Goodbye!" << std::endl;
 }
+
+void askQuestion(const std::string& question)
+{
+	std::cout << question << "? " << std::endl;
+}
