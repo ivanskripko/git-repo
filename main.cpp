@@ -2,6 +2,7 @@
 #include <string>
 #include "test.h"
 
+// основная функция программы
 int main (int argc, const char* argv[]) 
 {
 	std::string name;
