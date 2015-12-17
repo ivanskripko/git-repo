@@ -13,6 +13,6 @@ int main (int argc, const char* argv[])
 	printLoveWords(name);
 	printGreeting();
 	printGreeting();
-			
+	
 	return 0;
 }
