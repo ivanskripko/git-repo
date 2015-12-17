@@ -11,6 +11,8 @@ int main (int argc, const char* argv[])
 	printFarewell(name);
 	printGreeting();
 	printLoveWords(name);
+	printLoveWords();
+	printLoveWords();
 	
 	return 0;
 }
