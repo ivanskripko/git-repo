@@ -10,6 +10,7 @@ int main (int argc, const char* argv[])
 	printGreeting(name);
 	printFarewell(name);
 	printGreeting();
+	printLoveWords(name);
 	
 	return 0;
 }
