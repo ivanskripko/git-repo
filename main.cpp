@@ -2,7 +2,6 @@
 #include <string>
 #include "test.h"
 
-// основная функция программы
 int main (int argc, const char* argv[]) 
 {
 	std::string name;
@@ -10,7 +9,6 @@ int main (int argc, const char* argv[])
 	printGreeting(name);
 	printFarewell(name);
 	printGreeting();
-	printLoveWords(name);
 	printGreeting();
 	printGreeting();
 	
